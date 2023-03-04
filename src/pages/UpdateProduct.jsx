@@ -22,8 +22,6 @@ const UpdateProduct = () => {
       console.log(error);
     }
   };
-
-  console.log(item);
   return (
     <div className="container">
       <ProductForm
